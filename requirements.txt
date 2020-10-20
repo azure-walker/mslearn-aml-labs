@@ -1,0 +1,157 @@
+adal==1.2.4
+alembic==1.4.1
+applicationinsights==0.11.9
+argon2-cffi @ file:///D:/bld/argon2-cffi_1602546783264/work
+async-generator==1.10
+attrs @ file:///home/conda/feedstock_root/build_artifacts/attrs_1599308529326/work
+azure-common==1.1.25
+azure-core==1.8.2
+azure-graphrbac==0.61.1
+azure-identity==1.4.1
+azure-mgmt-authorization==0.61.0
+azure-mgmt-containerregistry==2.8.0
+azure-mgmt-keyvault==2.2.0
+azure-mgmt-resource==10.2.0
+azure-mgmt-storage==11.2.0
+azure-storage-blob==12.5.0
+azureml-automl-core==1.16.0
+azureml-core==1.16.0.post1
+azureml-dataprep==2.3.4
+azureml-dataprep-native==23.0.0
+azureml-dataprep-rslex==1.1.3
+azureml-dataset-runtime==1.16.0
+azureml-mlflow==1.16.0
+azureml-pipeline==1.16.0
+azureml-pipeline-core==1.16.0
+azureml-pipeline-steps==1.16.0
+azureml-sdk==1.16.0
+azureml-telemetry==1.16.0
+azureml-train==1.16.0
+azureml-train-automl-client==1.16.0
+azureml-train-core==1.16.0
+azureml-train-restclients-hyperdrive==1.16.0
+azureml-widgets==1.16.0
+backports.functools-lru-cache==1.6.1
+backports.tempfile==1.0
+backports.weakref==1.0.post1
+bleach @ file:///home/conda/feedstock_root/build_artifacts/bleach_1600454382015/work
+brotlipy==0.7.0
+certifi==2020.6.20
+cffi @ file:///D:/bld/cffi_1602537397014/work
+chardet @ file:///D:/bld/chardet_1602255527687/work
+click==7.1.2
+cloudpickle==1.6.0
+colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1602866480661/work
+contextlib2==0.6.0.post1
+cryptography @ file:///D:/bld/cryptography_1602614277716/work
+cycler==0.10.0
+databricks-cli==0.12.2
+decorator==4.4.2
+defusedxml==0.6.0
+distro==1.5.0
+docker==4.3.1
+dotnetcore2==2.1.17
+entrypoints @ file:///D:/bld/entrypoints_1602702004030/work/dist/entrypoints-0.3-py2.py3-none-any.whl
+Flask==1.1.2
+fusepy==3.0.1
+gitdb==4.0.5
+GitPython==3.1.9
+gorilla==0.3.0
+idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1593328102638/work
+importlib-metadata @ file:///home/conda/feedstock_root/build_artifacts/importlib-metadata_1602263269022/work
+ipykernel @ file:///D:/bld/ipykernel_1602683102390/work/dist/ipykernel-5.3.4-py3-none-any.whl
+ipython==5.8.0
+ipython-genutils==0.2.0
+ipywidgets==7.5.1
+isodate==0.6.0
+itsdangerous==1.1.0
+jeepney==0.4.3
+Jinja2==2.11.2
+jmespath==0.10.0
+joblib==0.17.0
+json5 @ file:///home/conda/feedstock_root/build_artifacts/json5_1600692310011/work
+jsonpickle==1.4.1
+jsonschema @ file:///home/conda/feedstock_root/build_artifacts/jsonschema_1602551949684/work
+jupyter-client @ file:///home/conda/feedstock_root/build_artifacts/jupyter_client_1598486169312/work
+jupyter-core @ file:///D:/bld/jupyter_core_1602537547680/work
+jupyterlab==2.2.8
+jupyterlab-pygments @ file:///home/conda/feedstock_root/build_artifacts/jupyterlab_pygments_1601375948261/work
+jupyterlab-server @ file:///home/conda/feedstock_root/build_artifacts/jupyterlab_server_1593951277307/work
+kiwisolver==1.2.0
+Mako==1.1.3
+MarkupSafe @ file:///D:/bld/markupsafe_1602267688190/work
+matplotlib==3.3.2
+mistune @ file:///D:/bld/mistune_1602381947199/work
+mlflow==1.11.0
+msal==1.5.0
+msal-extensions==0.2.2
+msrest==0.6.19
+msrestazure==0.6.4
+nbclient @ file:///home/conda/feedstock_root/build_artifacts/nbclient_1602859080374/work
+nbconvert @ file:///D:/bld/nbconvert_1602715600756/work
+nbformat @ file:///home/conda/feedstock_root/build_artifacts/nbformat_1602732862338/work
+ndg-httpsclient==0.5.1
+nest-asyncio @ file:///home/conda/feedstock_root/build_artifacts/nest-asyncio_1601342677072/work
+notebook @ file:///D:/bld/notebook_1602720404681/work
+numpy==1.19.2
+oauthlib==3.1.0
+packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1589925210001/work
+pandas==1.1.3
+pandocfilters==1.4.2
+pathspec==0.8.0
+pickleshare @ file:///home/conda/feedstock_root/build_artifacts/pickleshare_1602536217715/work
+Pillow==8.0.0
+portalocker==1.7.1
+prometheus-client @ file:///home/conda/feedstock_root/build_artifacts/prometheus_client_1590412252446/work
+prometheus-flask-exporter==0.18.1
+prompt-toolkit==1.0.15
+protobuf==3.13.0
+pyarrow==1.0.1
+pyasn1==0.4.8
+pycparser @ file:///home/conda/feedstock_root/build_artifacts/pycparser_1593275161868/work
+Pygments @ file:///home/conda/feedstock_root/build_artifacts/pygments_1600347314331/work
+PyJWT==1.7.1
+pyOpenSSL==19.1.0
+pyparsing==2.4.7
+pyrsistent @ file:///D:/bld/pyrsistent_1602260134717/work
+PySocks @ file:///D:/bld/pysocks_1602327039693/work
+python-dateutil==2.8.1
+python-dotenv==0.14.0
+python-editor==1.0.4
+pytz==2020.1
+pywin32==227
+pywinpty @ file:///D:/bld/pywinpty_1602377668868/work
+PyYAML==5.3.1
+pyzmq==19.0.2
+querystring-parser==1.2.4
+requests @ file:///home/conda/feedstock_root/build_artifacts/requests_1592425495151/work
+requests-oauthlib==1.3.0
+ruamel.yaml==0.16.12
+ruamel.yaml.clib==0.2.2
+scikit-learn==0.23.2
+scipy==1.5.3
+SecretStorage==3.1.2
+Send2Trash==1.5.0
+simplegeneric==0.8.1
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1590081179328/work
+smmap==3.0.4
+SQLAlchemy==1.3.13
+sqlparse==0.4.1
+tabulate==0.8.7
+tenacity==6.2.0
+terminado @ file:///D:/bld/terminado_1602679902270/work
+testpath==0.4.4
+threadpoolctl==2.1.0
+tornado @ file:///D:/bld/tornado_1602489126091/work
+traitlets==4.3.3
+urllib3 @ file:///home/conda/feedstock_root/build_artifacts/urllib3_1603125704209/work
+waitress==1.4.4
+wcwidth @ file:///home/conda/feedstock_root/build_artifacts/wcwidth_1600965781394/work
+webencodings==0.5.1
+websocket-client==0.57.0
+Werkzeug==1.0.1
+widgetsnbextension==3.5.1
+win-inet-pton @ file:///D:/bld/win_inet_pton_1602260226001/work
+wincertstore==0.2
+xlrd==1.2.0
+zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1602852756910/work
